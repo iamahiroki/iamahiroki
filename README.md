@@ -1,6 +1,4 @@
-### Hi 👋
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamahiroki&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamahiroki&theme=dracula&no-frame=ruetps://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **iamahiroki/iamahiroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
